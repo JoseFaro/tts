@@ -1,0 +1,10 @@
+# Modelos y caché: pesados (GitHub rechaza archivos > 100 MB) y descargables.
+# Cómo obtenerlos: docs/instalacion.md
+*.safetensors
+*.onnx
+f5tts/hf-cache/
+f5tts/model/
+# Audios generados
+output/
+f5tts/output/
+web/audio/
